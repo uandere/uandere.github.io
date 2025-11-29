@@ -1,0 +1,11 @@
+# Theme
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Plugins
+plugins:
+- jekyll-remote-theme
+
+# Basic site information
+title: Nazar's Finance Cheatsheet
+description: My small open-source cheatsheet on finance.
+show_downloads: false
