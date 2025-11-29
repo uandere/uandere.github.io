@@ -1,11 +1,11 @@
 ---
-# This is the YAML Front Matter
-# It configures the specific page.
-# The 'layout: default' links this to your custom _layouts/default.html
+
 layout: default
-# The 'title' below will be rendered by the theme as the main content title.
-title: Nazar's Finance Cheatsheet
+
 ---
+
+# Nazar's Finance Cheatsheet
+
 
 ## Content
 
