@@ -1,9 +1,3 @@
----
-
-layout: default
-
----
-
 # Nazar's Finance Cheatsheet
 
 
