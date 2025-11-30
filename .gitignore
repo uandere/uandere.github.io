@@ -1,0 +1,39 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+*.gem
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Temporary files
+*~
+*.swp
+*.swo
+.*.sw?
+
+# Backup files from gem patching
+*.backup
+*.bak
+*.bak2
+
+# SSL patch file (if you created it)
+_patch_ssl.rb
+
+# Local config overrides
+_config_dev.yml
+
+# Logs
+*.log
