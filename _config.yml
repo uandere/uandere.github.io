@@ -6,7 +6,7 @@ plugins:
 - jekyll-remote-theme
 
 # Basic site information
-title: Nazar's Finance Cheatsheet
+title: NaFi
 description: My small open-source cheatsheet on finance.
 show_downloads: false
 
